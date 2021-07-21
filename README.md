@@ -98,3 +98,5 @@ Rofi is not:
 *   An application that can support every possible use-case. It tries to be generic enough to be usable by everybody.
     * Specific functionality can be added using scripts or plugins, many exists.
 *   Just a dmenu replacement. The dmenu functionality is a nice 'extra' to **rofi**, not its main purpose.
+
+.
